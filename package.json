@@ -1,7 +1,10 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.1",
     "name": "eslint-drunk_daddy-config",
+    "author": "Drunk_daddy",
     "main": "index.js",
+		"description": "eslint custom config",
+    "repository": "https://github.com/Drunk-dad/eslint-drunk_daddy-config.git",
     "exports": {
         ".": "./configs/base.js",
         "./ts": "./configs/typescript.js",
